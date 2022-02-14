@@ -9,8 +9,7 @@ h1
 html
 {
 font-family: 'Roboto', sans-serif;
-background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 0%, rgba(222,255,0,1) 66%); 
+color:white;
 }
 
 image{
@@ -18,3 +17,6 @@ text-align: right;
 
 }
 
+body{
+    background-image: url("image site pp.jpg") ;
+}
