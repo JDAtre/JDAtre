@@ -2,7 +2,6 @@ h1
 {
     color: rgb(0, 255, 0);
 	text-align:center;
-
 }
 
 
@@ -21,7 +20,7 @@ text-align: right;
 body{
     background-image: url("image site pp.jpg") ;
     background-size: 100%;
-    background-position: fixed;
+    background-attachment: fixed;
 }
 
 
